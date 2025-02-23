@@ -29,3 +29,8 @@ The input field
 The start button (including disabled state)
 The countdown display (with red text for low time)
 The progress bar (smooth transitions for width reduction)
+
+# Solution
+**Do not check the solution before you have tried your best to write your own solution**
+
+https://github.com/shijie1xu/React_Timer
